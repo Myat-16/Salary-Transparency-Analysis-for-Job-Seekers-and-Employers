@@ -7,3 +7,4 @@
 1. Utilized a public Kaggle dataset to explore salary summaries by job_title, employment_type, experience_level, remote_ratio, and company_location, focusing on salary transparency for both job seekers and employers.
 2. Used the columns job_title, company_location, experience_level, employment_type, and remote_ratio to compare compensation across roles, seniority levels, work arrangements, and locations.
 3. Aggregated and visualized the results in Excel, building an interactive dashboard with slicers for experience_level, job_title, and company_location to enable deep, self-service analysis of salary patterns.
+4. Tools that I used is Microsoft Excel (Data Cleaning, Pivot Tables, Formulas, Statistical Functions, Charts & Dashboards)
