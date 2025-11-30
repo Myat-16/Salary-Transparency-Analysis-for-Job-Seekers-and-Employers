@@ -1,6 +1,6 @@
 # Project Name: Salary Transparency Analysis for Job Seekers and Employers 
 ## Key Business Impacts
-1. Targeted applications: Filter by experience level, remote ratio, and location to prioritize roles matching skills; avoids lowball offers, boosting application ROI and securing 89% higher apply rates for transparent postings.​
+1. Targeted applications: Filter by experience level, remote ratio, and location to prioritize roles matching skills; avoids lowball offers.
 2. Negotiation power: Compare salary distributions by job title and employment type; equips data to negotiate within bands, reducing underpayment risks and capturing location/remote premiums.​
 3. Career progression insights: Visualize salary ladders by experience level and title across locations; identifies growth paths, equitable employers, and sectors with strong remote options for long-term planning.
 ## Approaches Details
