@@ -8,3 +8,4 @@
 2. Used the columns job_title, company_location, experience_level, employment_type, and remote_ratio to compare compensation across roles, seniority levels, work arrangements, and locations.
 3. Aggregated and visualized the results in Excel, building an interactive dashboard with slicers for experience_level, job_title, and company_location to enable deep, self-service analysis of salary patterns.
 
+<img width="1042" height="640" alt="image" src="https://github.com/user-attachments/assets/87d80520-d0e9-434d-b224-74826cc3be6b" />
